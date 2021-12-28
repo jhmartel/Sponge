@@ -1,4 +1,5 @@
-# Sponge
+# Counterexamples to Guth's Sponge Problem: 
+# Stable Rigid Sphere Packings of Arbitrarily Low Density
 
 We submit here some potential counterexamples to Larry Guth's Sponge Problem.
 These examples were discussed in Jan 2021: https://mathoverflow.net/questions/381172/status-of-larry-guths-sponge-problem
