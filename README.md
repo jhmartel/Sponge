@@ -13,4 +13,7 @@ The idea is based on Werner Fischer's constructions https://www.degruyter.com/do
 
 In our estimation, the stable sphere packings of small density are effective counterexamples to Guth's Sponge Problem. 
 
+Further references: 
+https://www.princeton.edu/~fhs/fhspapers/fhspaper278.pdf
+
 
